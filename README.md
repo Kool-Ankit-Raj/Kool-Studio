@@ -16,6 +16,4 @@ Out of **47 mods**, these **2 Are Highlighted**
 - **[BBS FS (BBS Mod fork)](https://modrinth.com/mod/bbs-fs)**
 
 ---
-## BBS Mod Guide By McHorse
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X7bTb7QI-V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 This modpack **was previously based on Kool Optimized**, but the **current version is fully independent**
