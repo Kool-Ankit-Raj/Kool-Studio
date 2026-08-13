@@ -15,7 +15,3 @@ Out of **50 mods**, these **6 Are Highlighted**
 - [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 - [IRLights BBS Addon](https://modrinth.com/mod/irlights-bbs-addon)
 - [Flashback](https://modrinth.com/mod/flashback)
-
----
-## BBS Mod Guide By McHorse
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X7bTb7QI-V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
